@@ -12,6 +12,7 @@ func main() {
 
 	fmt.Printf("array is: %T , slice is %T\n", array, slice)
 
+	// %v : value of the variable/string/array
 	fmt.Printf("i: %v \n", slice)
 	fmt.Printf("i: %v \n", slice[1:])
 
